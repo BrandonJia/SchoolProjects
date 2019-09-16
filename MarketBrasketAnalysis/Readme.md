@@ -1,0 +1,1 @@
+This project was to analyze sport by using market basket analysis. Specifically, according to competitors, rearrange the team players to compete with them.
